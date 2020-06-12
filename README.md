@@ -8,24 +8,24 @@ El código generado por la hoja de Excel auxiliar o programado a mano se ejecuta
 
 El resultado final son una serie de mapas en formato png que se almacenan en la carpeta que establezcamos.
 
-#Ejemplos de uso
-
-Para hacer un mapa por comunidades autónomas
-
-```
-map_prov('variable1','Título de la variable 1','Subtítulo de la variable1','Fuente de los datos','Total nacional: 12345','content/images/prov.png')
-```
-
-<p align="center">
-<img src="content/images/ccaa.png" alt="drawing" width="400"/>
-</p>
+# Ejemplos de uso
 
 Para hacer un mapa por provincias
 
 ```
-map_ccaa('variable2','Título de la variable 2','Subtítulo de la variable2','Fuente de los datos','Total nacional: 12346','content/images/ccaa.png')
+map_prov('variable1','Título','Subtítulo','Fuente','Total nacional: ','content/images/prov.png')
 ```
 
 <p align="center">
 <img src="content/images/prov.png" alt="drawing" width="400"/>
+</p>
+
+Para hacer un mapa por comunidades autónomas
+
+```
+map_ccaa('variable2','Título','Subtítulo','Fuente','Total nacional: ','content/images/ccaa.png')
+```
+
+<p align="center">
+<img src="content/images/ccaa.png" alt="drawing" width="400"/>
 </p>
