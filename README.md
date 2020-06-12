@@ -17,7 +17,7 @@ map_prov('variable1','Título','Subtítulo','Fuente','Total nacional: ','content
 ```
 
 <p align="center">
-<img src="content/images/prov.png" alt="drawing" width="400"/>
+<img src="content/images/prov.png" alt="drawing" width="600"/>
 </p>
 
 Para hacer un mapa por comunidades autónomas
@@ -27,5 +27,5 @@ map_ccaa('variable2','Título','Subtítulo','Fuente','Total nacional: ','content
 ```
 
 <p align="center">
-<img src="content/images/ccaa.png" alt="drawing" width="400"/>
+<img src="content/images/ccaa.png" alt="drawing" width="600"/>
 </p>
