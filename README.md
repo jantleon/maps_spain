@@ -17,7 +17,7 @@ map_prov('variable1','Título de la variable 1','Subtítulo de la variable1','Fu
 ```
 
 <p align="center">
-<img src="content/plots/day1.png" alt="drawing" width="400"/>
+<img src="content/images/ccaa.png" alt="drawing" width="400"/>
 </p>
 
 Para hacer un mapa por provincias
@@ -26,4 +26,6 @@ Para hacer un mapa por provincias
 map_ccaa('variable2','Título de la variable 2','Subtítulo de la variable2','Fuente de los datos','Total nacional: 12346','content/images/ccaa.png')
 ```
 
-IMAGEN MAPA 2
+<p align="center">
+<img src="content/images/prov.png" alt="drawing" width="400"/>
+</p>
