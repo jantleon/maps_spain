@@ -1,4 +1,4 @@
-El objetivo de este proyecto es *automatizar la generación de mapas de España por comunidad autónoma o provincia* con R y ```ggplot2``` a partir de un conjunto con datos en formato csv. 
+El objetivo de este proyecto es **automatizar la generación de mapas de España por comunidad autónoma o provincia** con R y ```ggplot2``` a partir de un conjunto con datos en formato csv. 
 
 Estos datasets se deben estructurar en el formato establecido en los ficheros ```data_ccaa.csv``` y ```data_prov.csv```. Es decir, que necesitan contener los nombres de las comunidades autónomas y provincias tal cual aparecen en esos archivos, los nombres de variables en columnas y los valores de cada variable en filas.
 
